@@ -1,0 +1,2 @@
+# Comunicaciones3
+Se solicita la elaboración de un sistema de video analaogico el cual cuente con una sola entrada de video y audio y esta puede ser repetida en 4 salidas diferentes. El dispositivo debe de indicar cuando el equipo está conectado y permitir poder encender y apagar cada puerto de transmisión. El dispositivo debe de indicar cuantos puertos se encuentran activos y permitir encender y apagar cada uno de estos. La forma de indicación y activación queda a discreción del estudiante.
